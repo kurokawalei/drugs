@@ -15,7 +15,56 @@ body {
 
 .threebox {
     margin: 80px 0 0 0;
+    @include mob(){
+        margin: 0;
+    }
+    .col-md-4.center {
+        @include mob(){
+            margin-bottom: 15px;
+        }
+    }
 }
+
+.tg-topbar {
+    @include mob(){
+        padding: 0;
+    }
+}
+.tg-vieoshortcode {
+ @include mob(){
+    padding: 0;
+ }
+}
+.tg-liststyedot {
+    @include mob(){
+        float: left;
+    }
+}
+
+.tg-headervtwo {
+
+    .tg-navplusdropdown {
+
+        .tg-nav {
+          @include mob(){
+            margin:  0 0 0 15px;
+          }
+        }
+
+        .tg-btnsearch {
+            @include mob(){
+                margin: 8px 20px;
+            }
+        }
+    }
+    .tg-logo {
+       @include mob(){
+        width: 250px;
+       }
+    }
+}
+
+
 
 
 #tg-innerpagebanner {
