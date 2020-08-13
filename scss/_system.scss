@@ -1,0 +1,73 @@
+
+
+$font:1rem;
+$b-color:#595757;
+$m-color:#e5482f;
+
+
+
+
+@mixin ulstyle(){
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    
+}
+
+
+@mixin xl() {
+    
+    @media (min-width:1441px) {
+        @content;
+    }
+}
+
+@mixin xl-down() {
+    
+    @media (max-width:1441px) {
+        @content;
+    }
+}
+
+
+
+@mixin xl-pad(){
+
+    @media (min-width:992px) and (max-width:1200px) {
+         @content;
+    }
+    
+}
+
+
+@mixin pad(){
+
+    @media (min-width:768px) and (max-width:991px) {
+         @content;
+    }
+    
+}
+
+
+
+@mixin mob() {
+    
+    @media (max-width:769px) {
+        
+        @content;
+    }
+    
+    
+}
+
+
+@mixin sm-mob() {
+    
+    @media (max-width:351px) {
+        
+        @content;
+    }
+    
+    
+}
+

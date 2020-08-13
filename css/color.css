@@ -1,0 +1,212 @@
+/*==========================================================================================
+								Primery Theme Colors										
+==========================================================================================*/
+/*=============================================
+			Theme Text Color
+=============================================*/
+a,
+p a,
+p a:hover,
+a:hover,
+a:focus,
+a:active,
+.tg-stars span:after,
+.tg-navigation ul > li:hover > a,
+.tg-navigation ul > li.current-menu-item > a,
+.tg-navigation ul > li > a:hover,
+.tg-btn,
+.tg-footernav ul li:hover,
+.tg-footernav ul li a:hover,
+.tg-widgetcontent ul li a:hover,
+.tg-widgetcontent ul li.current-menu-item a,
+.tg-widgetsearch form fieldset button,
+.tg-widgetcategories ul li:hover,
+.tg-widgetcategories ul li:hover a,
+.tg-currentstoriesslider strong,
+.tg-locationaddressinfo h2,
+.tg-listinfo > li > span span > a:hover,
+.tg-themetabnav li.active a,
+.tg-themetabnav li:hover a,
+.tg-btndocdownload:hover,
+.tg-btndocdownload:hover i,
+.tg-widgetupcomingevents .tg-widgetcontent ul li:hover time,
+.tg-404errorcontent h3,
+.tg-comingsooncontent h1,
+.tg-emergencycall,
+.tg-emergencycall strong,
+.tg-headervfourteen .tg-emergencycall strong,
+.tg-headervfourteen .tg-emergencycall i{ color: #f97324; }
+.tg-spreadlovervtwo h2{ color: #f97324; }
+.tg-causevthree:hover .tg-causecontent .tg-btn{ color: #f97324 !important;}
+/*=============================================
+			Theme Background Color
+=============================================*/
+.tg-btn:hover,
+.tg-dropdowarrow,
+.navbar-toggle,
+.tg-slidercontent h1 em,
+.tg-sliderdots .owl-dot span:hover,
+.tg-sliderdots .owl-dot.active span,
+.tg-sectiontitle:before,
+.tg-skillbarbar,
+.tg-btnactive,
+.tg-sectionheadvtwo .tg-sectiontitle h2 span,
+.tg-getinvolved h2 span,
+.tg-videobox h2 span,
+.tg-footertextbox,
+.tg-breadcrumb,
+.tg-pagination ul li.tg-active a,
+.tg-pagination ul li a:hover,
+.tg-pagination ul li.tg-nextpage a,
+.tg-pagination ul li.tg-prevpage a,
+.tg-widgettitle:before,
+.tg-themetabnav li a:before,
+.tg-steptitle:before,
+.tg-amountboxes .tg-radio input[type="radio"]:checked + label,
+.tg-addtocart,
+.tg-featuredtag,
+.tg-404errorcontent h3:after,
+.tg-uploadimg label .tg-btn.tg-active,
+.tg-uploadimg label a,
+.tg-comingsoon .tg-logo:before,
+.tg-headervthree .tg-btn,
+.tg-headervfive .tg-navigationarea .tg-btn,
+.tg-headerveight .tg-navigationarea .tg-btn,
+.tg-headervnine .tg-navigationarea .tg-btn:hover,
+.tg-topbar .tg-btn,
+.tg-headervten .tg-navigation > ul > li > a:before,
+.tg-headervsixteen .tg-navigation > ul > li:after,
+.tg-btnscrolltotop,
+.pogoSlider-progressBar-duration,
+.tg-descriptionbox.tg-slidercontent,
+.tg-sliderpost figure figcaption .tg-btns .tg-btn.tg-btnactive,
+.tg-raiseyourhand .tg-btns .tg-btn:hover,
+.tg-raiseyourhand .tg-btns .tg-btn.tg-btnactive,
+.tg-getinvolvedvthree:before{ background:#f97324; }
+.tg-quantityholder .minus:hover,
+.tg-quantityholder .plus:hover,
+.tg-getinvolvedvthree,
+.tg-getinvolvedvthree:after,
+.tg-getinvolvedvthree h2:before,
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{ background:#f97324; }
+.tg-causevthree:hover .tg-causecontent{background:rgba(249, 115, 36, 0.70);}
+/*=============================================
+			Theme Border Color
+=============================================*/
+input:focus,
+.select select:focus,
+.form-control:focus,
+.tg-btn,
+.tg-aboutnewsletter,
+.tg-figcaptioncontent .tg-btn:hover,
+.tg-btndocdownload:hover,
+.tg-widgetupcomingevents .tg-widgetcontent ul li:hover time,
+.tg-countdown.tg-seconds,
+.tg-headervnine .tg-navigationarea .tg-btn:hover,
+.tg-topbar .tg-btn,
+.tg-headervthirteen .tg-navigationarea .tg-btn,
+.tg-headervfourteen,
+.tg-headervfourteen .tg-emergencycall i,
+.tg-btnscrolltotop:after,
+.tg-btnscrolltotop:before,
+.tg-sliderpost .tg-slidercontenttitle .tg-btns .tg-btn.tg-btnactive
+{ border-color: #f97324; }
+.tg-btnwhite.tg-btnactive{ border-color: #f97324 !important;}
+/*==========================================================================================
+								Secondary Theme Colors										
+==========================================================================================*/
+/*=============================================
+			Theme Text Color
+=============================================*/
+.tg-headervten .tg-navigation ul > li:hover > a,
+.tg-headervten .tg-navigation ul > li.current-menu-item > a,
+.tg-headervten .tg-navigation ul > li > a:hover,
+.tg-headervten .tg-btnsearch:hover,
+.tg-headervten .tg-btnminicart:hover,
+.tg-emergencycall,
+.tg-emergencycall strong,
+.tg-homesliderveight .tg-slidercontent .tg-slidercontenttitle span,
+.tg-homesliderveight .tg-slidercontent .tg-slidercontenttitle h1,
+.tg-homesliderveight .tg-slidercontent .tg-btns .tg-btn,
+.tg-homeslidervnine .tg-slidercontenttitle h1,
+.tg-homeslidervnine .tg-slidercontenttitle .tg-btns .tg-btn{ color: #f32f81; }
+/*=============================================
+			Theme Background Color
+=============================================*/
+.tg-headervten .tg-navigation > ul > li > a:before,
+.tg-headervten .tg-topbar .tg-btn,
+.tg-headerveleven .tg-navigation > ul > li > a:before,
+.tg-headerveleven .tg-topbar .tg-btn,
+.tg-headerveleven .tg-navigationarea,
+.tg-homesliderveight .tg-slidercontent .tg-btns .tg-btn:hover,
+.tg-homesliderveight .tg-slidercontent .tg-btns .tg-btn.tg-btnactive,
+.tg-homeslidervnine .tg-slidercontenttitle .tg-btns .tg-btn:hover,
+.tg-homeslidervnine .tg-slidercontenttitle .tg-btns .tg-btn.tg-btnactive{ background:#f32f81; }
+/*=============================================
+			Theme Border Color
+=============================================*/
+.tg-headervten .tg-topbar .tg-btn,
+.tg-headerveleven .tg-topbar .tg-btn,
+.tg-homesliderveight .tg-slidercontent .tg-btns .tg-btn,
+.tg-homeslidervnine .tg-slidercontenttitle .tg-btns .tg-btn,
+.tg-homeslidervnine .tg-slidercontenttitle .tg-btns .tg-btn.tg-btnactive{ border-color: #f32f81; }
+.tg-quantityholder .minus:hover,
+.tg-quantityholder .plus:hover,
+.tg-getinvolvedvthree h2:after{ border-color: #f97324; }
+/*==========================================================================================
+								Third Theme Colors											
+==========================================================================================*/
+/*=============================================
+			Theme Text Color
+=============================================*/
+.tg-homeslidervten .tg-slidercontent h1
+
+
+{color: #ffcc33;}
+/*=============================================
+			Theme Background Color
+=============================================*/
+body.tg-homethirteen .tg-causevtwo .tg-causecontent .tg-btn:hover,
+body.tg-homethirteen .tg-causevtwo .tg-skillbarbar
+
+
+{background: #ffcc33;}
+/*=============================================
+			Theme Border Color
+=============================================*/
+body.tg-homethirteen .tg-causevtwo .tg-causecontent .tg-btn
+
+
+{border-color: #ffcc33;}
+/*==========================================================================================
+								Four Theme Colors											
+==========================================================================================*/
+/*=============================================
+			Theme Text Color
+=============================================*/
+.tg-homeslidervfourteen .tg-slidercontent h1
+
+
+{color: #ff4444;}
+/*=============================================
+			Theme Background Color
+=============================================*/
+.tg-donatefood,
+.tg-homeslidervtwelve .tg-slidercontenttitle h1,
+.tg-homeslidervtwelve .tg-slidercontenttitle h2,
+.tg-homeslidervfourteen .tg-sliderdots .owl-dot:hover span,
+.tg-homeslidervfourteen .tg-sliderdots .owl-dot.active span,
+.tg-headervfourteen .tg-navigation > ul > li > a:after,
+.tg-headervfourteen .tg-middlebar .tg-logo,
+body.tg-homefourteen .tg-sectiontitle:after
+
+
+{background: #ff4444;}
+/*=============================================
+			Theme Border Color
+=============================================*/
+.tg-homeslidervfourteen .tg-sliderdots .owl-dot:hover span,
+.tg-homeslidervfourteen .tg-sliderdots .owl-dot.active span
+
+
+{border-color: #ff4444;}

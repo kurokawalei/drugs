@@ -1,0 +1,58 @@
+*:after,
+*:before,
+p a,
+a,
+.tg-socialicons li a,
+.tg-roundicontext,
+.tg-roundicontext .tg-usericonholder,
+.sub-menu,
+.mega-menu,
+.tg-dropdownmenu,
+.tg-dropdownmenu li,
+.tg-sliderdots .owl-dot,
+.tg-sliderdots .owl-dot span,
+.tg-ourmission figure figcaption,
+.tg-ourmission figure figcaption .tg-description,
+.tg-cause,
+.tg-educationpost,
+.tg-ourmission,
+.tg-event,
+.tg-product,
+.tg-staticstic,
+.tg-staticsticholder,
+.tg-waytohelp,
+.tg-btn,
+.tg-campaigndocument,
+.tg-btndocdownload,
+.tg-teammember,
+.tg-product figure figcaption,
+.tg-post,
+.tg-post figure a img,
+.tg-event figure a img,
+.tg-widgetupcomingevents .tg-widgetcontent time,
+.tg-profilepics li .tg-radio input[type=radio] + label:before,
+.tg-thumbs .item figure figcaption,
+.tg-quantityholder .minus,
+.tg-quantityholder .plus,
+.tg-eventvthree figure figcaption,
+.tg-staticstic:hover i,
+.tg-causecontent,
+.tg-instagramgallery li figure figcaption,
+.tg-educationpostholder,
+.tg-slidercontenttitle,
+.tg-sliderpost figure figcaption,
+.tg-prev,
+.tg-next
+
+
+
+
+
+
+ {
+	-webkit-transition: all 300ms ease-in-out;
+	-moz-transition: all 300ms ease-in-out;
+	-ms-transition: all 300ms ease-in-out;
+	-o-transition: all 300ms ease-in-out;
+	transition: all 300ms ease-in-out;
+}

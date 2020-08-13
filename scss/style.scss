@@ -1,0 +1,44 @@
+@charset "utf-8";
+@import "system";
+
+/*Kuro*/
+
+body {
+
+    font-family: "Microsoft JhengHei", sans-serif !important;
+    -webkit-overflow-scrolling: touch;
+   
+}
+
+.center  { text-align: center;}
+.right {text-align: right; }
+
+.threebox {
+    margin: 80px 0 0 0;
+}
+
+
+#tg-innerpagebanner {
+
+    background: url(../images/long_bg.jpg);
+
+}
+.notice-ul {
+
+   list-style-type: none !important;
+   li {
+    list-style: none;
+   }
+
+}
+
+.mapbox {
+    margin-bottom: 25px;
+    height: initial;
+    
+}
+.tg-postcontent h3 {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
